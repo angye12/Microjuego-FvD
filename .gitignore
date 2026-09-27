@@ -1,0 +1,15 @@
+# Unity - archivos generados
+My project/Library/
+My project/Temp/
+My project/Obj/
+My project/Logs/
+My project/UserSettings/
+My project/MemoryCaptures/
+
+# IDE
+My project/.vs/
+My project/.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
